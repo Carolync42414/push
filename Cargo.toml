@@ -28,3 +28,4 @@ description = "A secure, stable, and lightweight alternative to OpenClaw and Her
 # clarify the control flow
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
